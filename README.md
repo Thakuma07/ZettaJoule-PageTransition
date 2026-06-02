@@ -1,6 +1,9 @@
+
 # Grid Shutter Page Transition 🚀
 
 A sleek and modern Next.js web application demonstrating a "Grid Shutter" style page transition. This project leverages `next-transition-router` and `gsap` to create stunning, dynamic block-based page transition animations that elevate the user experience.
+
+<img width="1920" height="1080" alt="Screenshot 2026-06-02 120415" src="https://github.com/user-attachments/assets/c9331155-1e79-4747-be9f-8f53a1b73756" />
 
 ## 🙏 Inspiration
 
